@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Skylar Looi Yuxun, a student at Singapore University of Technology and Design studying computer science, hoping to specialise in artificial intelligence.
 
 <!--
 **SkylarLooi/SkylarLooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
